@@ -1,0 +1,7 @@
+#wrap{
+	height:100%;
+	width: 100%;
+	position: absolute;
+	background-image: url("http://127.0.0.1:8080/suit/images/ui/registerBackground.jpg");
+	background-size: 100% 100%;
+}
